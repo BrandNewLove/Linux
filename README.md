@@ -1,2 +1,2 @@
 # Linux
-Linux Study Notes
+Linux Some Notes
