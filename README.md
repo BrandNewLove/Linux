@@ -1,2 +1,2 @@
 # Linux
-Linux Some Notes
+Linux Some Configure
